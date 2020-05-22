@@ -23,6 +23,12 @@ public class Universidad {
         
         System.out.println(persona);
         
+        Profesor profesor;
+        profesor = new Profesor();
+      
+        
+        
+        
     }
     
 }
